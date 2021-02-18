@@ -1,3 +1,3 @@
 # libft42
 
-STATUS: Not Submitted Yet
+STATUS: 115/100
